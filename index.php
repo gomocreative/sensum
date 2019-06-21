@@ -71,7 +71,7 @@
                     <span class="icon-bar"></span>
                     </button>
                     <br>
-                    <a href="index.html"><img src="images/logo/logo.jpg" width="60px" height="60px" alt=""></a>
+                    <a href="index.php"><img src="images/logo/logo.jpg" width="60px" height="60px" alt=""></a>
                 </div>
             </div>
 
@@ -79,15 +79,15 @@
             <div class="col-md-10 p0">
                 <div class="collapse navbar-collapse" id="min_navbar">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="index.php">Inicio</a></li>
 
-                        <li><a href="about.html">Nosostros</a></li>
+                        <li><a href="about.php">Nosotros</a></li>
 
-                        <li><a href="services.html">Servicios</a></li>
+                        <li><a href="services.php">Servicios</a></li>
 
-                        <li><a href="proyects.html">Proyectos</a></li>
+                        <li><a href="proyects.php">Proyectos</a></li>
 
-                        <li><a href="contact.html">Contactos</a></li>
+                        <li><a href="contact.php">Contactos</a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -124,26 +124,29 @@
     <section class="about_us_area row">
         <div class="container">
             <div class="tittle wow fadeInUp">
-                <h2>ABOUT US</h2>
+                <h2>¡Comencemos!</h2>
                 <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4>
             </div>
             <div class="row about_row">
                 <div class="who_we_area col-md-7 col-sm-6">
                     <div class="subtittle">
-                        <h2>WHO WE ARE</h2>
+                        <h2 style="font-weight: lighter">Sensum Construcciones</h2>
                     </div>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage
-                        of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                    <p>
+                        Sensum se distingue de la competencia, basados en los valores de la atención personalizada que el cliente requiere ante sus necesidades.
+                        Ofreciéndole soluciones innovadoras y prácticas a sus solicitudes, se provee de material de la más alta calidad del mercado y mano de obra
+                        calificada para su manipulación, manteniendo los precios más justos del mercado.
+                    </p>
                     <br>
                     <br>
                     <div class="subtittle">
-                        <h3>Descarga nuestro CV ...!</h3>
+                        <h3>Descarga nuestro Currícum y Portafolio digital</h3>
                     </div>
                     <br>
                     <a href="#" class="button_all"> <i class="fa fa-download"></i> CV</a>
                 </div>
                 <div class="col-md-5 col-sm-6 about_client">
-                    <img src="images/about_client.jpg" alt="">
+                    <img src="images/home.jpg" alt="" class="homeImg">
                 </div>
             </div>
         </div>
@@ -154,22 +157,27 @@
     <section class="what_we_area row">
         <div class="container">
             <div class="tittle wow fadeInUp">
-                <h2>WHAT WE OFFER</h2>
-                <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4>
+                <h2>Nuestra Empresa</h2>
+                <h4>Conoce un poco más sobre nuestros objetivos y planes de trabajo</h4>
             </div>
             <div class="row construction_iner">
                 <div class="col-md-6 col-sm-6 construction">
                     <div class="cns-content">
                         <i class="fa fa-eye" aria-hidden="true"></i>
                         <a href="#">Visión</a>
-                        <p>Lorem Ipsum is simply dummy text of the print-ing and typesetting industry. Lorem Ipsum has been the industry's standard dummy </p>
+                        <p>
+                            En 5 años convertirnos en empresa líder en servicios generales de construcción del Municipio de Guatemala, con influencia en el interior del país.
+                            <br><br>
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 construction">
                     <div class="cns-content">
                         <i class="fa fa-home" aria-hidden="true"></i>
                         <a href="#">Misión</a>
-                        <p>Lorem Ipsum is simply dummy text of the print-ing and typesetting industry. Lorem Ipsum has been the industry's standard dummy </p>
+                        <p>
+                            Somos una empresa que provee servicios profesionales en el área de diseño y la construcción, realizando intervenciones en remodelaciones, ampliaciones y proyectos desde su concepción.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -187,18 +195,18 @@
             <div class="achievments_row row">
                 <div class="col-md-4 col-sm-6 p0 completed">
                     <i class="fa fa-connectdevelop" aria-hidden="true"></i>
-                    <span class="counter">800</span>
-                    <h6>PROYECTOS COMPLETADOS</h6>
+                    <span class="counter">168</span>
+                    <h6>Proyectos Completados</h6>
                 </div>
                 <div class="col-md-4 col-sm-6 p0 completed">
                     <i class="fa fa-home" aria-hidden="true"></i>
-                    <span class="counter">230</span>
-                    <h6>CASAS RENOVADAS</h6>
+                    <span class="counter">82</span>
+                    <h6>Proyectos Renovados</h6>
                 </div>
                 <div class="col-md-4 col-sm-6 p0 completed">
                     <i class="fa fa-child" aria-hidden="true"></i>
-                    <span class="counter">1390</span>
-                    <h6>CLIENTES FELICES</h6>
+                    <span class="counter">58</span>
+                    <h6>Clientes Satisfechosa</h6>
                 </div>
             </div>
         </div>
@@ -206,53 +214,11 @@
     <!-- End Our Achievments Area -->
 
     <!-- Footer Area -->
-    <footer class="footer_area">
-        <div class="container">
-            <div class="footer_row row">
-                <div class="col-md-3 col-sm-6 footer_about">
-                    <h2>ABOUT OUR COMPANY</h2>
-                    <img src="images/footer-logo.png" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    <ul class="socail_icon">
-                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 footer_about quick">
-                    <h2>Quick links</h2>
-                    <ul class="quick_link">
-                        <li><a href="#"><i class="fa fa-chevron-right"></i>Building Construction</a></li>
-                        <li><a href="#"><i class="fa fa-chevron-right"></i>Home Renovation</a></li>
-                        <li><a href="#"><i class="fa fa-chevron-right"></i>Hardwood Flooring</a></li>
-                        <li><a href="#"><i class="fa fa-chevron-right"></i>Repairing Of Roof</a></li>
-                        <li><a href="#"><i class="fa fa-chevron-right"></i>Commercial Construction</a></li>
-                        <li><a href="#"><i class="fa fa-chevron-right"></i>Concreate Transport</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 footer_about">
-                    <h2>Twitter Feed</h2>
-                    <a href="#" class="twitter">@colorlib: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</a>
-                    <a href="#" class="twitter">@colorlib: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</a>
-                </div>
-                <div class="col-md-3 col-sm-6 footer_about">
-                    <h2>CONTACT US</h2>
-                    <address>
-                        <p>Have questions, comments or just want to say hello:</p>
-                        <ul class="my_address">
-                            <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>info@thethemspro.com</a></li>
-                            <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i>+880 123 456 789</a></li>
-                            <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i><span>Sector # 10, Road # 05, Plot # 31, Uttara, Dhaka 1230 </span></a></li>
-                        </ul>
-                    </address>
-                </div>
-            </div>
-        </div>
-        <div class="copyright_area">
-            Copyright 2019 All rights reserved to Sensum. Designed by <a href="https://gomocreative.com">GoMoCreative.</a>
-        </div>
-    </footer>
+    <?php
+
+    require_once("footer.php");
+
+    ?>
     <!-- End Footer Area -->
 
     <!-- jQuery JS -->

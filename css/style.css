@@ -3167,6 +3167,39 @@ button:hover {
     }
 }
 
+/* Custom Fonts for Sensum */
+
+.imgFooter {
+    width: 40%;
+    height: 45%;
+    display: block;
+    margin-left: 4em;
+}
+
+.homeImg {
+    margin-top: -30px;
+    width: 100%;
+    height: 70%;
+    border-radius: 5px;
+}
+
+.aboutImg {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.sensumEmail {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.sensumEmail:hover {
+    color: #000;
+}
+
+/* Custom Fonts for Sensum */
+
 
 /*--------------------------------------------------*/
 

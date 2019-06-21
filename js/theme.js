@@ -99,7 +99,7 @@
     function counterUp(){
         if ( $('.counter').length ){ 
             $('.counter').counterUp({
-                delay: 10,
+                delay: 1,
                 time: 900,
             });
         } 
@@ -171,7 +171,7 @@
         if ( $('.counter2').length ){ 
             $('.counter2').counterUp({
                 delay: 10,
-                time: 200,
+                time: 100,
             });
         } 
     }; 
