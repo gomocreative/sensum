@@ -118,7 +118,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-1.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href=""><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href=""><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
@@ -131,7 +131,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-2.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
@@ -145,7 +145,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-3.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
@@ -159,7 +159,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-4.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
@@ -173,7 +173,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-5.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
@@ -187,7 +187,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-6.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
@@ -201,7 +201,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-7.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
@@ -215,7 +215,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-8.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
@@ -229,7 +229,7 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-9.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-clipboard" aria-hidden="true"></i></a>
+                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
                             <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
                             <div class="date_comment">
                                 <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
