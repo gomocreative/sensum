@@ -3198,6 +3198,14 @@ button:hover {
     color: #000;
 }
 
+.lessTop {
+    padding-top: 20px !important;
+}
+
+.spaceProjectCard {
+    margin-bottom: 100px !important;
+}
+
 /* Custom Fonts for Sensum */
 
 

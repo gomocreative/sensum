@@ -60,7 +60,7 @@
 
     <!-- Banner area -->
     <section class="banner_area" data-stellar-background-ratio="0.5">
-        <h2>Proyectos</h2>
+        <h2>Algunos de nuestros proyectos</h2>
         <ol class="breadcrumb">
         </ol>
     </section>
@@ -74,12 +74,13 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-1.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href=""><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
+                            <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
+                            <span class="tittle" href="#">Construcción oficinas ASTRAB</span>
                             <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
+                                <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="https://www.grupovical.com" target="_blank">Grupo  VICAL VIGUA, S.A.</a></span><br><br>
+                                <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Noviembre 2016</span>
                             </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+                            <p class="lessTop">Construccion de oficinas administrativas asociación de trabajadores segundo nivel con método losacero.</p>
                         </div>
                     </div>
                 </div>
@@ -87,27 +88,27 @@
                     <div class="renovation">
                         <img src="images/blog/renovation/r-2.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
+                            <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
+                            <span class="tittle">Pintura de oficinas administrativas</span>
                             <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
-                                <a href="#"><i class="fa fa-commenting-o" aria-hidden="true"></i>3</a>
+                                <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.mateco.com.gt" target="_blank">Colectivo Amigos Contra el sida CAS</a></span><br><br>
+                                <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Noviembre 2017</span>
                             </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+                            <p style="padding-bottom: 21px">Suministro y aplicacion de pintura general en oficinas administrativas.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/blog/renovation/r-3.jpg" alt="">
+                        <img src="images/blog/renovation/r-2.jpg" alt="">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
+                            <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
+                            <span class="tittle">Remodelación de oficinas administrativas Mateco</span>
                             <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
-                                <a href="#"><i class="fa fa-commenting-o" aria-hidden="true"></i>3</a>
+                                <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.mateco.com.gt" target="_blank">MATECO S.A,</a></span><br><br>
+                                <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Diciembre 2017</span>
                             </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+                            <p style="padding-bottom: 8px">Remodelación de oficinas administrativas nueva distribución en concepto open office.</p>
                         </div>
                     </div>
                 </div>
