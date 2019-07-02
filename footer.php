@@ -17,12 +17,12 @@
             <div class="col-md-4 col-sm-6 footer_about quick">
                 <h2>Enlaces Rápidos</h2>
                 <ul class="quick_link">
-                    <li><a href="#"><i class="fa fa-chevron-right"></i>Inicio</a></li>
-                    <li><a href="#"><i class="fa fa-chevron-right"></i>Nosotros</a></li>
-                    <li><a href="#"><i class="fa fa-chevron-right"></i>Sercicios</a></li>
-                    <li><a href="#"><i class="fa fa-chevron-right"></i>Proyectos</a></li>
-                    <li><a href="#"><i class="fa fa-chevron-right"></i>Contáctanos</a></li>
-                    <li><a href="#"><i class="fa fa-chevron-right"></i>Descarga nuestro CV</a></li>
+                    <li><a href="index.php"><i class="fa fa-chevron-right"></i>Inicio</a></li>
+                    <li><a href="about.php"><i class="fa fa-chevron-right"></i>Nosotros</a></li>
+                    <li><a href="services.php"><i class="fa fa-chevron-right"></i>Sercicios</a></li>
+                    <li><a href="proyects.php"><i class="fa fa-chevron-right"></i>Proyectos</a></li>
+                    <li><a href="contact.php"><i class="fa fa-chevron-right"></i>Contáctanos</a></li>
+                    <li><a href="docs/Presentacion_Sensum_Construcciones.pdf" target="_blank"><i class="fa fa-chevron-right"></i>Descarga nuestro CV</a></li>
                 </ul>
             </div>
 
@@ -31,9 +31,9 @@
                 <address>
                     <p>Preguntas, comentarios o solo puedes decir hola:</p>
                     <ul class="my_address">
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>info@sensumconstrucciones.com</a></li>
-                        <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i>+502 123 5911 3075</a></li>
-                        <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i>+502 123 4151 7950</a></li>
+                        <li><a href="mailto:info@sensumconstrucciones.com"><i class="fa fa-envelope" aria-hidden="true"></i>info@sensumconstrucciones.com</a></li>
+                        <li><a href="tel:+50229113075"><i class="fa fa-phone" aria-hidden="true"></i>(502) 5911 3075</a></li>
+                        <li><a href="tel:+50241517950"><i class="fa fa-phone" aria-hidden="true"></i>(502) 4151 7950</a></li>
                         <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i>Ciudad de Guatemala</a></li>
                     </ul>
                 </address>

@@ -3206,6 +3206,14 @@ button:hover {
     margin-bottom: 100px !important;
 }
 
+.whyUs {
+    padding: auto;
+    margin: 100px 50px 200px -5px;
+    width: 100%;
+    height: auto;
+    border-radius: 0.2em;
+}
+
 /* Custom Fonts for Sensum */
 
 

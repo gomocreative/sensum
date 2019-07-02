@@ -60,7 +60,7 @@
 
     <!-- Banner area -->
     <section class="banner_area" data-stellar-background-ratio="0.5">
-        <h2>Contactos</h2>
+        <h2>¡Pongámonos en Contacto!</h2>
         <ol class="breadcrumb">
 
         </ol>
@@ -75,27 +75,25 @@
                     <h2>Información</h2>
                     <div class="location">
                         <div class="location_laft">
-                            <a class="f_location" href="#">Dirección</a>
                             <a href="#">Tel</a>
                             <a href="#">Tel</a>
                             <a href="#">Email</a>
                         </div>
                         <div class="address">
-                            <a href="#">Sector # 10, Road # 05, Plot # 31, Uttara, <br> Dhaka 1230 </a>
-                            <a href="#">+880 123 456 789</a>
-                            <a href="#">+880 123 456 789</a>
-                            <a href="#">info@thethemspro.com</a>
-                        </div>
+                            <a href="tel:+50229113075">(502) 5911 3075</a>
+                            <a href="tel:+50241517950">(502) 4151 7950</a>
+                            <a href="mailto:info@sensumconstrucciones.com">info@sensumconstrucciones.com</a>
+                        </div>  |
                     </div>
                 </div>
                 <div class="col-sm-6 contact_info send_message">
-                    <h2>Send Us a Message</h2>
+                    <h2>Envíanos un mensaje</h2>
                     <form class="form-inline contact_box">
-                        <input type="text" class="form-control input_box" placeholder="Name *">
-                        <input type="text" class="form-control input_box" placeholder="Your Email *">
-                        <input type="text" class="form-control input_box" placeholder="Subject">
-                        <textarea class="form-control input_box" placeholder="Message"></textarea>
-                        <button type="submit" class="btn btn-default">Send Message</button>
+                        <input type="text" class="form-control input_box" placeholder="Nombre *">
+                        <input type="text" class="form-control input_box" placeholder="Email *">
+                        <input type="text" class="form-control input_box" placeholder="Asunto">
+                        <textarea class="form-control input_box" placeholder="Mensaje"></textarea>
+                        <button type="submit" class="btn btn-default">Enviar</button>
                     </form>
                 </div>
             </div>

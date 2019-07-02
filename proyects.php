@@ -60,7 +60,8 @@
 
     <!-- Banner area -->
     <section class="banner_area" data-stellar-background-ratio="0.5">
-        <h2>Algunos de nuestros proyectos</h2>
+        <h2>Conoce Algunos de nuestros proyectos</h2>
+
         <ol class="breadcrumb">
         </ol>
     </section>
@@ -72,10 +73,10 @@
             <div class="row blog_tow_row">
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/blog/renovation/r-1.jpg" alt="">
+                        <img src="images/projects/project1.2.jpg" alt="" style="width: 100%; height: 270px; ">
                         <div class="renovation_content">
                             <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
-                            <span class="tittle" href="#">Construcción oficinas ASTRAB</span>
+                            <span class="tittle" href="#">Construcción oficinas ASTRAB</span><br>
                             <div class="date_comment">
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="https://www.grupovical.com" target="_blank">Grupo  VICAL VIGUA, S.A.</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Noviembre 2016</span>
@@ -86,9 +87,9 @@
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/blog/renovation/r-2.jpg" alt="">
+                        <img src="images/projects/project2.jpg" alt="" style="width: 100%; height: 270px">
                         <div class="renovation_content">
-                            <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
+                            <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span><br>
                             <span class="tittle">Pintura de oficinas administrativas</span>
                             <div class="date_comment">
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.mateco.com.gt" target="_blank">Colectivo Amigos Contra el sida CAS</a></span><br><br>
@@ -98,9 +99,10 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/blog/renovation/r-2.jpg" alt="">
+                        <img src="images/projects/project3.jpg" alt="" style="width: 100%; height: 270px;">
                         <div class="renovation_content">
                             <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
                             <span class="tittle">Remodelación de oficinas administrativas Mateco</span>
@@ -108,91 +110,49 @@
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.mateco.com.gt" target="_blank">MATECO S.A,</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Diciembre 2017</span>
                             </div>
-                            <p style="padding-bottom: 8px">Remodelación de oficinas administrativas nueva distribución en concepto open office.</p>
+                            <p style="padding-bottom: 28px">Remodelación de oficinas administrativas nueva distribución en concepto open office.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/blog/renovation/r-4.jpg" alt="">
+                        <img src="images/projects/project4.jpg" alt="" style="width: 100%; height: 270px;">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
+                            <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
+                            <span class="tittle">Condominio Villa Romana</span><br>
                             <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
-                                <a href="#"><i class="fa fa-commenting-o" aria-hidden="true"></i>3</a>
+                                <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="https://www.aicsacorp.com/" target="_blank">AICSA</a></span><br><br>
+                                <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Mayo 2018</span><br>
                             </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+                            <p style="padding-bottom: 83px">Levantado de paredes para construccion de casas (obra gris) 3 casas construidas.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/blog/renovation/r-5.jpg" alt="">
+                        <img src="images/projects/project5.jpg" alt="" style="width: 100%; height: 270px;">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
+                            <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
+                            <span class="tittle" style="padding-bottom: 5px">Mantenimiento acabado exterior de Edificio</span>
                             <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
-                                <a href="#"><i class="fa fa-commenting-o" aria-hidden="true"></i>3</a>
+                                <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.conceptosurbanos.com.gt/condado-la-villa" target="_blank">Edificio Condado la Villa zona 14</a></span><br><br>
+                                <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Agosto 2018</span>
                             </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+                            <p style="padding-bottom: 85px">Reparación de cernido exterior y pintura exterior de balcón edificio.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/blog/renovation/r-6.jpg" alt="">
+                        <img src="images/projects/project6.jpg" alt="" style="width: 100%; height: 270px;">
                         <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
+                            <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
+                            <span class="tittle" style="padding-bottom: 5px">Implementacion de AC auditorio CSI corporativo</span>
                             <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
-                                <a href="#"><i class="fa fa-commenting-o" aria-hidden="true"></i>3</a>
+                                <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="https://www.cmi.co/es/" target="_blank">Corporacion Multi Inversiones CMI</a></span><br><br>
+                                <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Mayo 2019</span>
                             </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="renovation">
-                        <img src="images/blog/renovation/r-7.jpg" alt="">
-                        <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
-                            <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
-                                <a href="#"><i class="fa fa-commenting-o" aria-hidden="true"></i>3</a>
-                            </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="renovation">
-                        <img src="images/blog/renovation/r-8.jpg" alt="">
-                        <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
-                            <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
-                                <a href="#"><i class="fa fa-commenting-o" aria-hidden="true"></i>3</a>
-                            </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="renovation">
-                        <img src="images/blog/renovation/r-9.jpg" alt="">
-                        <div class="renovation_content">
-                            <a class="clipboard" href="#"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
-                            <a class="tittle" href="#">Commercial Construction &amp; Renovation</a>
-                            <div class="date_comment">
-                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i>October 20, 2016</a>
-                                <a href="#"><i class="fa fa-commenting-o" aria-hidden="true"></i>3</a>
-                            </div>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+                            <p style="padding-bottom: 8px">Fabricación e instalacion de estructura tipo Joist para soporte de Aires Acondicionados en auditorio, instalaciones eléctricas para su funcionamiento y adecuación de drenajes para descarga de condensación.</p>
                         </div>
                     </div>
                 </div>

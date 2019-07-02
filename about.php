@@ -115,7 +115,7 @@
             </div>
             <div class="feature_row row">
                 <div class="col-md-6 feature_img">
-                    <img src="images/feature-man.jpg" alt="">
+                    <img src="images/about/whyUs.jpg" alt="Sensum" class="whyUs">
                 </div>
                 <div class="col-md-6 feature_content">
                     <div class="subtittle">
@@ -141,7 +141,7 @@
                         </div>
                         <div class="media-body">
                             <a href="#">Un equipo altamente calificado</a>
-                            <p>Contamos con mano de obra profesional usando materiales de alta calidad.</p>
+                            <p>Contamos con mano de obra profesional usando materiales de primera calidad.</p>
                         </div>
                     </div>
                     <div class="media">
@@ -152,7 +152,7 @@
                         </div>
                         <div class="media-body">
                             <a href="#">Trabajo 100% garantizado</a>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting indus-try. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                            <p>Sensum te ofrece resultados garantizados</p>
                         </div>
                     </div>
                 </div>
@@ -167,11 +167,11 @@
             <div class="container">
                 <div class="row book_now">
                     <div class="col-md-10 booking_text">
-                        <h4>Booking now if you need build your dream home.</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h4>¿Tienes alguna pregunta o comentario?</h4>
+                        <p>Pongámonos en contacto y verás que somos tu mejor opción :)</p>
                     </div>
                     <div class="col-md-2 p0 book_bottun">
-                        <a href="#" class="button_all">book now</a>
+                        <a href="contact.php" class="button_all">Contáctanos</a>
                     </div>
                 </div>
             </div>
@@ -181,7 +181,7 @@
 
 
     <!-- Our Team Area -->
-    <section class="our_team_area">
+    <!--<section class="our_team_area">
         <div class="container">
             <div class="tittle wow fadeInUp">
                 <h2>Our Team</h2>
@@ -246,7 +246,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- End Our Team Area -->
 
     <!-- Footer Area -->

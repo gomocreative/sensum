@@ -68,7 +68,7 @@
                 <div class="camera_caption">
                     <div class="container">
                         <h5 class=" wow fadeInUp animated">Tu mejor opción en </h5>
-                        <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">SERVICIOS EN CONTRUCCIÓN</h1>
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">SERVICIOS DE CONTRUCCIÓN</h1>
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
         <div class="container">
             <div class="tittle wow fadeInUp">
                 <h2>¡Comencemos!</h2>
-                <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4>
+                <h4>Una Experiencia de Cálidad Garantizada</h4>
             </div>
             <div class="row about_row">
                 <div class="who_we_area col-md-7 col-sm-6">
@@ -99,7 +99,7 @@
                         <h3>Descarga nuestro Currícum y Portafolio digital</h3>
                     </div>
                     <br>
-                    <a href="#" class="button_all"> <i class="fa fa-download"></i> CV</a>
+                    <a href="docs/Presentacion_Sensum_Construcciones.pdf" target="_blank" class="button_all"> <i class="fa fa-download"></i> CV</a>
                 </div>
                 <div class="col-md-5 col-sm-6 about_client">
                     <img src="images/home.jpg" alt="" class="homeImg">
