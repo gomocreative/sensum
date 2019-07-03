@@ -84,7 +84,10 @@
                 <!-- Dis Archit -->
                 <div class="portfolio_item portfolio_2">
                     <div class="grid-sizer-2"></div>
-                    <div class="single_facilities col-sm-7 disArchit" aria-hidden="false">
+                    <div class="single_facilities col-sm-5 disArchit">
+                        <img src="images/feature-man-4.jpg" alt="">
+                    </div>
+                    <div class="single_facilities col-sm-7 disArchit">
                         <div class="who_we_area">
                             <div class="subtittle">
                                 <h2>Diseño Arquitectonico</h2>
@@ -93,14 +96,13 @@
                                 use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass-ing hidden in the middle of text.</p>
                             <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
                                 to using</p>
-                            <a href="#" class="button_all">Contact Now</a>
                         </div>
                     </div>
-                    <div class="single_facilities col-sm-5 disArchit">
-                        <img src="images/feature-man-4.jpg" alt="">
-                    </div>
+                </div>
 
                 <!-- Remodelación -->
+                <div class="portfolio_item portfolio_2">
+                    <div class="grid-sizer-2"></div>
                     <div class="single_facilities col-sm-7 remodelacion">
                         <div class="who_we_area">
                             <div class="subtittle">
@@ -116,8 +118,14 @@
                     <div class="single_facilities col-sm-5 remodelacion">
                         <img src="images/feature-man-4.jpg" alt="">
                     </div>
+                </div>
 
                 <!-- Mant prevent -->
+                <div class="portfolio_item portfolio_2">
+                    <div class="grid-sizer-2"></div>
+                    <div class="single_facilities col-sm-5 mantPrevent">
+                        <img src="images/feature-man-4.jpg" alt="">
+                    </div>
                     <div class="single_facilities col-sm-7 mantPrevent">
                         <div class="who_we_area">
                             <div class="subtittle">
@@ -129,9 +137,6 @@
                                 to using</p>
                             <a href="#" class="button_all">Contact Now</a>
                         </div>
-                    </div>
-                    <div class="single_facilities col-sm-5 mantPrevent">
-                        <img src="images/feature-man-4.jpg" alt="">
                     </div>
                 </div>
 
@@ -158,6 +163,9 @@
                 <!-- instal general -->
                 <div class="portfolio_item portfolio_2">
                     <div class="grid-sizer-2"></div>
+                    <div class="single_facilities col-sm-5 instalGeneral">
+                        <img src="images/feature-man-4.jpg" alt="">
+                    </div>
                     <div class="single_facilities col-sm-7 instalGeneral">
                         <div class="who_we_area">
                             <div class="subtittle">
@@ -169,9 +177,6 @@
                                 to using</p>
                             <a href="#" class="button_all">Contact Now</a>
                         </div>
-                    </div>
-                    <div class="single_facilities col-sm-5 instalGeneral">
-                        <img src="images/feature-man-4.jpg" alt="">
                     </div>
                 </div>
 
