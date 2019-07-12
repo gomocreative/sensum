@@ -69,90 +69,110 @@
     <!-- Our Services Area -->
     <section class="our_services_tow">
         <div class="container">
+        <div class="tittle wow fadeInUp">
+                <h2>¡Los Mejores!</h2>
+                <h4>Te Presentamos nuestros servicios</h4>
+            </div>
             <div class="architecture_area services_pages">
-                <div class="portfolio_filter portfolio_filter_2">
+                <!-- <div class="portfolio_filter portfolio_filter_2">
                     <ul>
-                        <li data-filter=".disArchit" class="active"><a href=""><i class="fa fa-wrench" aria-hidden="true"></i>Diseño Arquitectonico</a></li>
-                        <li data-filter=".remodelacion"><a hrexf=""><i class="fa fa-cogs" aria-hidden="true"></i>Remodelación</a></li>
-                        <li data-filter=".mantPrevent"><a href=""><i class="fa fa-cog" aria-hidden="true"></i>Mantenimiento Preventivo</a></li>
-                        <li data-filter=".aplicTec"><a href=""><i class="fa fa-heart" aria-hidden="true"></i>Aplicaciones Tecnicas</a></li>
-                        <li data-filter=".instalGeneral"><a href=""><i class="fa fa-paint-brush" aria-hidden="true"></i>Instalaciones Generales</a></li>
-                        <li data-filter=".obraCivil"><a href=""><i class="fa fa-paint-brush" aria-hidden="true"></i>Obra Civil</a></li>
+                        <li class="active"><a href="#disArchit"><i class="fa fa-wrench" aria-hidden="true"></i>Diseño <br> Arquitectonico</a></li>
+                        <li><a href="#remodelacion"><i class="fa fa-cogs" aria-hidden="true"></i>Remodelación</a></li>
+                        <li><a href="#mantPrevent"><i class="fa fa-cog" aria-hidden="true"></i>Mantenimiento <br> Preventivo</a></li>
+                        <li><a href=""><i class="fa fa-heart" aria-hidden="true"></i>Aplicaciones <br> Tecnicas</a></li>
+                        <li><a href=""><i class="fa fa-paint-brush" aria-hidden="true"></i>Instalaciones <br> Generales</a></li>
+                        <li><a href=""><i class="fa fa-paint-brush" aria-hidden="true"></i>Obra Civil</a></li>
                     </ul>
-                </div>
+                </div> -->
 
                 <!-- Dis Archit -->
-                <div class="portfolio_item portfolio_2">
-                    <div class="grid-sizer-2"></div>
-                    <div class="single_facilities col-sm-5 disArchit">
-                        <img src="images/feature-man-4.jpg" alt="">
-                    </div>
-                    <div class="single_facilities col-sm-7 disArchit">
+                <div id="disArchit" class="portfolio_item portfolio_2">
+                    
+                    <div class="single_facilities col-sm-7">
                         <div class="who_we_area">
                             <div class="subtittle">
                                 <h2>Diseño Arquitectonico</h2>
                             </div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter-ation in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to
-                                use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass-ing hidden in the middle of text.</p>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-                                to using</p>
+                            <p>
+                            <ul>
+                                <li>hola</li>
+                                <li>hola</li>
+                                <li>hola</li>
+                                <li>hola</li>
+                                <li>hola</li>
+                            </ul>
+                            </p>
                         </div>
+                    </div>
+                    <div class="single_facilities col-sm-5 ">
+                        <img src="images/feature-man-4.jpg" alt="">
                     </div>
                 </div>
 
                 <!-- Remodelación -->
                 <div class="portfolio_item portfolio_2">
-                    <div class="grid-sizer-2"></div>
                     <div class="single_facilities col-sm-7 remodelacion">
                         <div class="who_we_area">
                             <div class="subtittle">
                                 <h2>Remodelacion</h2>
                             </div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter-ation in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to
-                                use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass-ing hidden in the middle of text.</p>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-                                to using</p>
-                            <a href="#" class="button_all">Contact Now</a>
+                            <p>
+                                <ul>
+                                    <li>Lorem</li>
+                                    <li>Lorem</li>
+                                    <li>Lorem</li>
+                                    <li>Lorem</li>
+                                    <li>Lorem</li>
+                                </ul>
+                            </p>
+                            
                         </div>
                     </div>
-                    <div class="single_facilities col-sm-5 remodelacion">
+                    <div class="single_facilities col-sm-5">
                         <img src="images/feature-man-4.jpg" alt="">
                     </div>
                 </div>
 
                 <!-- Mant prevent -->
                 <div class="portfolio_item portfolio_2">
-                    <div class="grid-sizer-2"></div>
-                    <div class="single_facilities col-sm-5 mantPrevent">
-                        <img src="images/feature-man-4.jpg" alt="">
-                    </div>
-                    <div class="single_facilities col-sm-7 mantPrevent">
+                    <div class="single_facilities col-sm-7 ">
                         <div class="who_we_area">
                             <div class="subtittle">
                                 <h2>ARCHITECTURE</h2>
                             </div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter-ation in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to
-                                use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass-ing hidden in the middle of text.</p>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-                                to using</p>
-                            <a href="#" class="button_all">Contact Now</a>
+                            <p>
+                                <ul>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                </ul>
+                            </p>
                         </div>
+                    </div>
+                    <div class="single_facilities col-sm-5 mantPrevent">
+                        <img src="images/feature-man-4.jpg" alt="">
                     </div>
                 </div>
 
                 <!-- aplic tec -->
                 <div class="portfolio_item portfolio_2">
-                    <div class="grid-sizer-2"></div>
                     <div class="single_facilities col-sm-7 aplicTec">
                         <div class="who_we_area">
                             <div class="subtittle">
                                 <h2>ARCHITECTURE</h2>
                             </div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter-ation in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to
-                                use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass-ing hidden in the middle of text.</p>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-                                to using</p>
-                            <a href="#" class="button_all">Contact Now</a>
+                            <p>
+                                <ul>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                </ul>
+                            </p>
+                            
                         </div>
                     </div>
                     <div class="single_facilities col-sm-5 aplicTec">
@@ -162,37 +182,45 @@
 
                 <!-- instal general -->
                 <div class="portfolio_item portfolio_2">
-                    <div class="grid-sizer-2"></div>
-                    <div class="single_facilities col-sm-5 instalGeneral">
-                        <img src="images/feature-man-4.jpg" alt="">
-                    </div>
                     <div class="single_facilities col-sm-7 instalGeneral">
                         <div class="who_we_area">
                             <div class="subtittle">
                                 <h2>ARCHITECTURE</h2>
                             </div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter-ation in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to
-                                use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass-ing hidden in the middle of text.</p>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-                                to using</p>
-                            <a href="#" class="button_all">Contact Now</a>
+                            <p>
+                                <ul>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                </ul>
+                            </p>
+                            
                         </div>
+                    </div>
+                    <div class="single_facilities col-sm-5 instalGeneral">
+                        <img src="images/feature-man-4.jpg" alt="">
                     </div>
                 </div>
 
                 <!-- obra civil -->
                 <div class="portfolio_item portfolio_2">
-                    <div class="grid-sizer-2"></div>
                     <div class="single_facilities col-sm-7 obraCivil">
                         <div class="who_we_area">
                             <div class="subtittle">
                                 <h2>ARCHITECTURE</h2>
                             </div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter-ation in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to
-                                use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass-ing hidden in the middle of text.</p>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-                                to using</p>
-                            <a href="#" class="button_all">Contact Now</a>
+                            <p>
+                                <ul>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                    <li>lorem</li>
+                                </ul>
+                            </p>
+                            
                         </div>
                     </div>
                     <div class="single_facilities col-sm-5 obraCivil">
