@@ -59,7 +59,7 @@
             <div data-thumb="images/slider-1.jpg" data-src="images/slider-1.jpg">
                 <div class="camera_caption">
                     <div class="container">
-                        <h5 class=" wow fadeInUp animated">Bienvenidos a</h5>
+                        <h5 class=" wow fadeInUp animated">Hola, Bienvenido a</h5>
                         <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">SENSUM</h1>
                     </div>
                 </div>

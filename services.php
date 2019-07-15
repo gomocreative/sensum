@@ -60,7 +60,7 @@
 
     <!-- Banner area -->
     <section class="banner_area" data-stellar-background-ratio="0.5">
-        <h2>Servicios</h2>
+        <h2>Nuestros Servicios</h2>
         <ol class="breadcrumb">
         </ol>
     </section>
@@ -71,7 +71,7 @@
         <div class="container">
         <div class="tittle wow fadeInUp">
                 <h2>¡Los Mejores!</h2>
-                <h4>Te Presentamos nuestros servicios</h4>
+                <h4>Una Experiencia de <strong>Cálidad Garantizada</strong></h4>
             </div>
             <div class="architecture_area services_pages">
                 <!-- <div class="portfolio_filter portfolio_filter_2">
@@ -95,17 +95,17 @@
                             </div>
                             <p>
                             <ul>
-                                <li>hola</li>
-                                <li>hola</li>
-                                <li>hola</li>
-                                <li>hola</li>
-                                <li>hola</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
                             </ul>
                             </p>
                         </div>
                     </div>
                     <div class="single_facilities col-sm-5 ">
-                        <img src="images/feature-man-4.jpg" alt="">
+                        <img src="images/services/disenio.jpg" alt="">
                     </div>
                 </div>
 
@@ -114,22 +114,22 @@
                     <div class="single_facilities col-sm-7 remodelacion">
                         <div class="who_we_area">
                             <div class="subtittle">
-                                <h2>Remodelacion</h2>
+                                <h2>Remodelaciones</h2>
                             </div>
                             <p>
                                 <ul>
-                                    <li>Lorem</li>
-                                    <li>Lorem</li>
-                                    <li>Lorem</li>
-                                    <li>Lorem</li>
-                                    <li>Lorem</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
                                 </ul>
                             </p>
                             
                         </div>
                     </div>
                     <div class="single_facilities col-sm-5">
-                        <img src="images/feature-man-4.jpg" alt="">
+                        <img src="images/services/remodelaciones.jpg" alt="">
                     </div>
                 </div>
 
@@ -138,21 +138,21 @@
                     <div class="single_facilities col-sm-7 ">
                         <div class="who_we_area">
                             <div class="subtittle">
-                                <h2>ARCHITECTURE</h2>
+                                <h2>Mantinimiento Preventivo</h2>
                             </div>
                             <p>
                                 <ul>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
                                 </ul>
                             </p>
                         </div>
                     </div>
                     <div class="single_facilities col-sm-5 mantPrevent">
-                        <img src="images/feature-man-4.jpg" alt="">
+                        <img src="images/services/mantenimiento.jpg" alt="">
                     </div>
                 </div>
 
@@ -161,22 +161,22 @@
                     <div class="single_facilities col-sm-7 aplicTec">
                         <div class="who_we_area">
                             <div class="subtittle">
-                                <h2>ARCHITECTURE</h2>
+                                <h2>Aplicaciones Técnicas</h2>
                             </div>
                             <p>
                                 <ul>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Lorem ipsum dolor sit amet</li>
                                 </ul>
                             </p>
                             
                         </div>
                     </div>
                     <div class="single_facilities col-sm-5 aplicTec">
-                        <img src="images/feature-man-4.jpg" alt="">
+                        <img src="images/services/aplicacionesTecnicas.jpg" alt="">
                     </div>
                 </div>
 
@@ -185,22 +185,22 @@
                     <div class="single_facilities col-sm-7 instalGeneral">
                         <div class="who_we_area">
                             <div class="subtittle">
-                                <h2>ARCHITECTURE</h2>
+                                <h2>Instalaciones Generales</h2>
                             </div>
                             <p>
                                 <ul>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
                                 </ul>
                             </p>
                             
                         </div>
                     </div>
                     <div class="single_facilities col-sm-5 instalGeneral">
-                        <img src="images/feature-man-4.jpg" alt="">
+                        <img src="images/services/instalaciones.jpg" alt="">
                     </div>
                 </div>
 
@@ -209,22 +209,22 @@
                     <div class="single_facilities col-sm-7 obraCivil">
                         <div class="who_we_area">
                             <div class="subtittle">
-                                <h2>ARCHITECTURE</h2>
+                                <h2>Obra Civil</h2>
                             </div>
                             <p>
                                 <ul>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
-                                    <li>lorem</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Lorem ipsum dolor sit amet</li>
                                 </ul>
                             </p>
                             
                         </div>
                     </div>
                     <div class="single_facilities col-sm-5 obraCivil">
-                        <img src="images/feature-man-4.jpg" alt="">
+                        <img src="images/services/obraCivil.jpg" alt="">
                     </div>
                 </div>
 
@@ -232,6 +232,24 @@
         </div>
     </section>
     <!-- End Our Services Area -->
+
+    <!-- Our Partners Area -->
+    <section class="our_partners_area">
+        <div class="book_now_aera">
+            <div class="container">
+                <div class="row book_now">
+                    <div class="col-md-10 booking_text">
+                        <h4>¿Tienes alguna pregunta o comentario?</h4>
+                        <p>Pongámonos en contacto y verás que somos tu mejor opción :)</p>
+                    </div>
+                    <div class="col-md-2 p0 book_bottun">
+                        <a href="contact.php" class="button_all">Contáctanos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Our Partners Area -->
 
     <!-- Our Featured Works Area -->
     <!-- <section class="featured_works row" data-stellar-background-ratio="0.3">

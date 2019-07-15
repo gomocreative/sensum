@@ -83,7 +83,7 @@
                             <a href="tel:+50229113075">(502) 5911 3075</a>
                             <a href="tel:+50241517950">(502) 4151 7950</a>
                             <a href="mailto:info@sensumconstrucciones.com">info@sensumconstrucciones.com</a>
-                        </div>  |
+                        </div>
                     </div>
                 </div>
                 <div class="col-sm-6 contact_info send_message">

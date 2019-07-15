@@ -95,7 +95,7 @@
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.mateco.com.gt" target="_blank">Colectivo Amigos contra el Sida CAS</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Noviembre 2017</span>
                             </div>
-                            <p style="padding-bottom: 0px">Suministro y aplicacion de pintura general para oficinas administrativas.</p>
+                            <p style="padding-bottom: 22px">Suministro y aplicacion de pintura general para oficinas administrativas.</p>
                         </div>
                     </div>
                 </div>
@@ -160,6 +160,69 @@
         </div>
     </section>
     <!-- End blog-2 area -->
+
+    <!-- Slider area -->
+    <section class="slider_area row m0">
+        <div class="slider_inner">
+            <div data-thumb="images/projects/particulars/particulares.jpg" data-src="images/projects/particulars/particulares.jpg">
+                <div class="camera_caption">
+                    <div class="container">
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0">Proyectos Particulares</h1>
+                    </div>
+                </div>
+            </div>
+            <div data-thumb="images/projects/particulars/cerramiento.jpg" data-src="images/projects/particulars/cerramiento.jpg">
+                <div class="camera_caption">
+                    <div class="container">
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0">Cerramiento</h1>
+                    </div>
+                </div>
+            </div>
+            <div data-thumb="images/projects/particulars/estructuras.jpg" data-src="images/projects/particulars/estructuras.jpg">
+                <div class="camera_caption">
+                    <div class="container">
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0">Estructuras</h1>
+                    </div>
+                </div>
+            </div>
+            <div data-thumb="images/projects/particulars/herreria.jpg" data-src="images/projects/particulars/herreria.jpg">
+                <div class="camera_caption">
+                    <div class="container">
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0">Herrería</h1>
+                    </div>
+                </div>
+            </div>
+            <div data-thumb="images/projects/particulars/impermeabilizacion.jpg" data-src="images/projects/particulars/impermeabilizacion.jpg">
+                <div class="camera_caption">
+                    <div class="container">
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0">impermeabilización</h1>
+                    </div>
+                </div>
+            </div>
+            <div data-thumb="images/projects/particulars/jardinizacion.jpg" data-src="images/projects/particulars/jardinizacion.jpg">
+                <div class="camera_caption">
+                    <div class="container">
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0">Jardinización</h1>
+                    </div>
+                </div>
+            </div>
+            <div data-thumb="images/projects/particulars/pintura.jpg" data-src="images/projects/particulars/pintura.jpg">
+                <div class="camera_caption">
+                    <div class="container">
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0">Pintura</h1>
+                    </div>
+                </div>
+            </div>
+            <div data-thumb="images/projects/particulars/ventaneria.jpg" data-src="images/projects/particulars/ventaneria.jpg">
+                <div class="camera_caption">
+                    <div class="container">
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0">Ventanería</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Slider area -->
 
     <!-- Footer Area -->
     <?php

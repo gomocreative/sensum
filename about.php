@@ -90,23 +90,6 @@
     </section>
     <!-- End About Us Area -->
 
-    <!-- call Area -->
-    <section class="call_min_area">
-        <div class="container">
-            <h2><a class="sensumEmail" href="mailto:proyectos@sensumconstrucciones.com">proyectos@sensumconstrucciones.com</a></h2>
-            <br>
-            <p>
-                ¿Listo para iniciar un nuevo proyecto juntos?
-            </p>
-            <br>
-            <div class="call_btn">
-                <a href="services.php" class="button_all">Servicios</a>
-                <a href="contact.php" class="button_all">Contáctanos</a>
-            </div>
-        </div>
-    </section>
-    <!-- End call Area -->
-
     <!-- Our Features Area -->
     <section class="our_feature_area">
         <div class="container">
@@ -161,23 +144,22 @@
     </section>
     <!-- End Our Features Area -->
 
-    <!-- Our Partners Area -->
-    <section class="our_partners_area">
-        <div class="book_now_aera">
-            <div class="container">
-                <div class="row book_now">
-                    <div class="col-md-10 booking_text">
-                        <h4>¿Tienes alguna pregunta o comentario?</h4>
-                        <p>Pongámonos en contacto y verás que somos tu mejor opción :)</p>
-                    </div>
-                    <div class="col-md-2 p0 book_bottun">
-                        <a href="contact.php" class="button_all">Contáctanos</a>
-                    </div>
-                </div>
+    <!-- call Area -->
+    <section class="call_min_area">
+        <div class="container">
+            <h2><a class="sensumEmail" href="mailto:proyectos@sensumconstrucciones.com">proyectos@sensumconstrucciones.com</a></h2>
+            <br>
+            <p>
+                ¿Listo para iniciar un nuevo proyecto juntos?
+            </p>
+            <br>
+            <div class="call_btn">
+                <a href="services.php" class="button_all">Servicios</a>
+                <a href="contact.php" class="button_all">Contáctanos</a>
             </div>
         </div>
     </section>
-    <!-- End Our Partners Area -->
+    <!-- End call Area -->
 
 
     <!-- Our Team Area -->
