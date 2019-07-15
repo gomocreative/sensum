@@ -81,7 +81,7 @@
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="https://www.grupovical.com" target="_blank">Grupo  VICAL VIGUA, S.A.</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Noviembre 2016</span>
                             </div>
-                            <p class="lessTop">Construccion de oficinas administrativas asociación de trabajadores segundo nivel con método losacero.</p>
+                            <p class="lessTop">Construccion de oficinas administrativas para asociación de trabajadores; Con estructura de acero y entrepiso de losacero.</p>
                         </div>
                     </div>
                 </div>
@@ -92,17 +92,17 @@
                             <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span><br>
                             <span class="tittle">Pintura de oficinas administrativas</span>
                             <div class="date_comment">
-                                <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.mateco.com.gt" target="_blank">Colectivo Amigos Contra el sida CAS</a></span><br><br>
+                                <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.mateco.com.gt" target="_blank">Colectivo Amigos contra el Sida CAS</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Noviembre 2017</span>
                             </div>
-                            <p style="padding-bottom: 21px">Suministro y aplicacion de pintura general en oficinas administrativas.</p>
+                            <p style="padding-bottom: 0px">Suministro y aplicacion de pintura general para oficinas administrativas.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/projects/project3.jpg" alt="" style="width: 100%; height: 270px;">
+                        <img src="images/projects/project3.1.jpg" alt="" style="width: 100%; height: 270px;">
                         <div class="renovation_content">
                             <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
                             <span class="tittle">Remodelación de oficinas administrativas Mateco</span>
@@ -124,7 +124,7 @@
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="https://www.aicsacorp.com/" target="_blank">AICSA</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Mayo 2018</span><br>
                             </div>
-                            <p style="padding-bottom: 83px">Levantado de paredes para construccion de casas (obra gris) 3 casas construidas.</p>
+                            <p style="padding-bottom: 60px">Levantamiento de muros para construcción de viviendas (Etapa obra gris) 3 viviendas ejecutadas.</p>
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="http://www.conceptosurbanos.com.gt/condado-la-villa" target="_blank">Edificio Condado la Villa zona 14</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Agosto 2018</span>
                             </div>
-                            <p style="padding-bottom: 85px">Reparación de cernido exterior y pintura exterior de balcón edificio.</p>
+                            <p style="padding-bottom: 85px">Reparación y aplicación de pintura en acabado final de exterior del edificio.</p>
                         </div>
                     </div>
                 </div>

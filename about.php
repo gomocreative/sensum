@@ -130,7 +130,7 @@
                         </div>
                         <div class="media-body">
                             <a href="#">Evaluación Técnica</a>
-                            <p>Sensum te ofrece una Evaluación Técnica Previa sin costo alguno.</p>
+                            <p>Te brindamos una visita previa sin costo alguno.</p>
                         </div>
                     </div>
                     <div class="media">
@@ -152,7 +152,7 @@
                         </div>
                         <div class="media-body">
                             <a href="#">Trabajo 100% garantizado</a>
-                            <p>Sensum te ofrece resultados garantizados</p>
+                            <p>Respaldo y garantía en todos nuestros servicios.</p>
                         </div>
                     </div>
                 </div>

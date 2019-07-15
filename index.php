@@ -99,7 +99,7 @@
                         <h3>Descarga nuestro Currícum y Portafolio digital</h3>
                     </div>
                     <br>
-                    <a href="docs/Presentacion_Sensum_Construcciones.pdf" target="_blank" class="button_all"> <i class="fa fa-download"></i> CV</a>
+                        <a href="docs/Presentacion_Sensum_Construcciones.pdf" target="_blank" class="button_all"> <i class="fa fa-download"></i> CV</a>
                 </div>
                 <div class="col-md-5 col-sm-6 about_client">
                     <img src="images/home.jpg" alt="" class="homeImg">
