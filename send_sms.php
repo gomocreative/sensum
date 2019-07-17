@@ -17,16 +17,19 @@
     $message = $_REQUEST['message'];
 
     //mail structure
+    $uniqueid= uniqid('np');
+
     $mailTo = 'gomocreative@gmail.com';
-
-    $strSubject = "Mensaje de tu Website, Sensum:  $name";
+    $strSubject = "Mensaje de tu Website, Sensum";
     
-    $headers .= "MIME-Version: 1.0\r\n";
-    $headers = "From: $mail \r\n";
+    $headers = "MIME-Version: 1.0\r\n";
+    $headers .= "From: $mail \r\n";
     $headers .= "Subjet: Test mail\r\n";
-    $headers .= "Content-Type: text/html; charset=utf-8\r\n";
+    $headers .= "Content-Type: multipart/alternative;boundary=" . $uniqueid . "\r\n";
 
-    $smsBody = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Mail</title></head><body>";
+    $smsBody  = "\r\n\r\n--" . $uniqueid ."\r\n";
+    $smsBody .= "Content-type: text/html; charset=utf8\r\n\r\n";
+    $smsBody .= "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Mail</title></head><body>";
     $smsBody .= "<table style='width: 100%;'>";
     $smsBody .= "<thead style='text-align: center;'><tr><td style='border:none;' colspan='2'>";
     $smsBody .= "</td></tr></thead><tbody><tr>";
@@ -38,6 +41,7 @@
     $smsBody .= "<tr><td colspan='2' style='border:none;'>". $message ."</td></tr>";
     $smsBody .= "</tbody></table>";
     $smsBody .= "</body></html>";
+    $smsBody .= "\r\n\r\n--" . $uniqueid ."\r\n";
 
 
     //send mail
