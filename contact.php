@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Topbuilder Construction Template</title>
+    <title>Sensum - CONTACTO</title>
 
     <!-- Favicon -->
     <link rel="icon" href="images/favicon.png" type="image/x-icon" />
@@ -88,12 +88,12 @@
                 </div>
                 <div class="col-sm-6 contact_info send_message">
                     <h2>Envíanos un mensaje</h2>
-                    <form class="form-inline contact_box">
-                        <input type="text" class="form-control input_box" placeholder="Nombre *">
-                        <input type="text" class="form-control input_box" placeholder="Email *">
-                        <input type="text" class="form-control input_box" placeholder="Asunto">
-                        <textarea class="form-control input_box" placeholder="Mensaje"></textarea>
-                        <button type="submit" class="btn btn-default">Enviar</button>
+                    <form class="form-inline contact_box" action="send_sms.php" method="post" id="contactForm">
+                        <input type="text" class="form-control input_box" name="name" placeholder="Nombre *" required>
+                        <input type="mail" class="form-control input_box" name="email" placeholder="Email *" required>
+                        <input type="text" class="form-control input_box" name="subjet" placeholder="Asunto *" required>
+                        <textarea class="form-control input_box" name="message" placeholder="Mensaje"></textarea>
+                        <button type="submit" value="submit" class="btn btn-default">Enviar</button>
                     </form>
                 </div>
             </div>

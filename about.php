@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Topbuilder Construction Template</title>
+    <title>Sensum - NOSOTROS</title>
 
     <!-- Favicon -->
     <link rel="icon" href="images/favicon.png" type="image/x-icon" />
@@ -83,7 +83,7 @@
                         Somos una empresa creada para brindar servicios generales en remodelación y construcción
                         con la mejor calidad a un precio cómodo y con el mejor servicio.
                     </p>
-                    <a href="contact.php" class="button_all">Contáctanos</a>
+                    <a href="contact" class="button_all">Contáctanos</a>
                 </div>
             </div>
         </div>
@@ -154,8 +154,8 @@
             </p>
             <br>
             <div class="call_btn">
-                <a href="services.php" class="button_all">Servicios</a>
-                <a href="contact.php" class="button_all">Contáctanos</a>
+                <a href="services" class="button_all">Servicios</a>
+                <a href="contact" class="button_all">Contáctanos</a>
             </div>
         </div>
     </section>

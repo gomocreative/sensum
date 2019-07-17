@@ -6,8 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Topbuilder Construction Template</title>
-
+    <title>Sensum - SERVICIOS</title>
     <!-- Favicon -->
     <link rel="icon" href="images/favicon.png" type="image/x-icon" />
     <!-- Bootstrap CSS -->
@@ -95,11 +94,11 @@
                             </div>
                             <p>
                             <ul>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
+                                <li>Conceptualización de ideas.</li>
+                                <li>Desarrollo de anteproyecto.</li>
+                                <li>Elaboración de planos (a nivel de anteproyecto).</li>
+                                <li>Elaboración de planos (a nivel constructivo).</li>
+                                <li>Seguimiento de diseño.</li>
                             </ul>
                             </p>
                         </div>
@@ -118,11 +117,11 @@
                             </div>
                             <p>
                                 <ul>
-                                    <li>Lorem ipsum dolor sit amet</li>
-                                    <li>Lorem ipsum dolor sit amet</li>
-                                    <li>Lorem ipsum dolor sit amet</li>
-                                    <li>Lorem ipsum dolor sit amet</li>
-                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Demlición y resanado de muros.</li>
+                                    <li>Texturizado de paredes.</li>
+                                    <li>Aplicación de pintura profecional.</li>
+                                    <li>colocación de formaleta o de piedra decorativa.</li>
+                                    <li>Restauración de pisos y cielo falso o texturizados.</li>
                                 </ul>
                             </p>
                             
@@ -138,15 +137,15 @@
                     <div class="single_facilities col-sm-7 ">
                         <div class="who_we_area">
                             <div class="subtittle">
-                                <h2>Mantinimiento Preventivo</h2>
+                                <h2>Mantenimiento Preventivo</h2>
                             </div>
                             <p>
                                 <ul>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Limpieza de losas y bajadas de agua.</li>
+                                    <li>Limpieza de filtros, sifones y llaves de agua potable.</li>
+                                    <li>Revisión de acometida eléctrica o instalación especial.</li>
+                                    <li>Limpieza de calentadores de resistencia.</li>
+
                                 </ul>
                             </p>
                         </div>
@@ -165,11 +164,11 @@
                             </div>
                             <p>
                                 <ul>
-                                    <li>Lorem ipsum dolor sit amet</li>
-                                    <li>Lorem ipsum dolor sit amet</li>
-                                    <li>Lorem ipsum dolor sit amet</li>
-                                    <li>Lorem ipsum dolor sit amet</li>
-                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Impermeabilización.</li>
+                                    <li>Revestimientos decorativos para interiores y exteriores.</li>
+                                    <li>Texturizado especial en acabado de paredes y cielos.</li>
+                                    <li>Pintura profesional.</li>
+                                    <li>Pavimentos decorativos especiales.</li>
                                 </ul>
                             </p>
                             
@@ -189,11 +188,11 @@
                             </div>
                             <p>
                                 <ul>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Instalaciones hidráulicas (Potable, drenajes, pluvial).</li>
+                                    <li>Instalaciones eléctricas (Iluminación y fuerza).</li>
+                                    <li>Instalaciones especiales (Red de datos, domótica, etc).</li>
+                                    <li>Instalaciones de climatización (Ventilación, calefacción, etc).</li>
+                                    <li>Instalación de comunicaciones (circuitos cerrados, teléfonos, redes informáticas, videovigilancia, etc).</li>
                                 </ul>
                             </p>
                             
@@ -213,11 +212,11 @@
                             </div>
                             <p>
                                 <ul>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
-                                <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Preliminares y trazado de terreno.</li>
+                                    <li>Excavaciones y movimiento de tierra.</li>
+                                    <li>Armado de estructura y cimentación.</li>
+                                    <li>Levantamiento de muros, tabique de tablayeso, durock, prefabricado monolit.</li>
+                                    <li>Fundición de losas de entrepiso y finales. Armado y fundición de gradas.</li>
                                 </ul>
                             </p>
                             
@@ -243,7 +242,7 @@
                         <p>Pongámonos en contacto y verás que somos tu mejor opción :)</p>
                     </div>
                     <div class="col-md-2 p0 book_bottun">
-                        <a href="contact.php" class="button_all">Contáctanos</a>
+                        <a href="contact" class="button_all">Contáctanos</a>
                     </div>
                 </div>
             </div>

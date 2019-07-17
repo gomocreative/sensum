@@ -21,7 +21,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <br>
-                <a href="index.php"><img src="images/logo/logo.jpg" width="60px" height="60px" alt=""></a>
+                <a href="index"><img src="images/logo/logo.jpg" width="60px" height="60px" alt=""></a>
             </div>
         </div>
 
@@ -29,15 +29,15 @@
         <div class="col-md-10 p0">
             <div class="collapse navbar-collapse" id="min_navbar">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="index.php">Inicio</a></li>
+                    <li><a href="index">Inicio</a></li>
 
-                    <li><a href="about.php">Nosotros</a></li>
+                    <li><a href="about">Nosotros</a></li>
 
-                    <li><a href="services.php">Servicios</a></li>
+                    <li><a href="services">Servicios</a></li>
 
-                    <li><a href="proyects.php">Proyectos</a></li>
+                    <li><a href="proyects">Proyectos</a></li>
 
-                    <li><a href="contact.php">Contactos</a></li>
+                    <li><a href="contact">Contactos</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

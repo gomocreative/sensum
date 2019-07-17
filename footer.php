@@ -17,11 +17,11 @@
             <div class="col-md-4 col-sm-6 footer_about quick">
                 <h2>Enlaces Rápidos</h2>
                 <ul class="quick_link">
-                    <li><a href="index.php"><i class="fa fa-chevron-right"></i>Inicio</a></li>
-                    <li><a href="about.php"><i class="fa fa-chevron-right"></i>Nosotros</a></li>
-                    <li><a href="services.php"><i class="fa fa-chevron-right"></i>Sercicios</a></li>
-                    <li><a href="proyects.php"><i class="fa fa-chevron-right"></i>Proyectos</a></li>
-                    <li><a href="contact.php"><i class="fa fa-chevron-right"></i>Contáctanos</a></li>
+                    <li><a href="index"><i class="fa fa-chevron-right"></i>Inicio</a></li>
+                    <li><a href="about"><i class="fa fa-chevron-right"></i>Nosotros</a></li>
+                    <li><a href="services"><i class="fa fa-chevron-right"></i>Sercicios</a></li>
+                    <li><a href="proyects"><i class="fa fa-chevron-right"></i>Proyectos</a></li>
+                    <li><a href="contact"><i class="fa fa-chevron-right"></i>Contáctanos</a></li>
                     <li><a href="docs/Presentacion_Sensum_Construcciones.pdf" target="_blank"><i class="fa fa-chevron-right"></i>Descarga nuestro CV</a></li>
                 </ul>
             </div>
