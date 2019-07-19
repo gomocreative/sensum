@@ -1372,8 +1372,13 @@ button:hover {
 .our_achievments_area .achievments_row .completed .counter {
     font: 700 40px "Roboto", sans-serif;
     color: #f6b60b;
-    display: block;
+    /* display: block; */
     padding-top: 23px;
+}
+
+.our_achievments_area .achievments_row .completed .simbol {
+    font: 700 40px "Roboto", sans-serif;
+    color: #f6b60b;
 }
 
 .our_achievments_area .achievments_row .completed h6 {
@@ -3167,6 +3172,7 @@ button:hover {
     }
 }
 
+
 /* Custom Fonts for Sensum */
 
 .imgFooter {
@@ -3213,6 +3219,7 @@ button:hover {
     height: auto;
     border-radius: 0.2em;
 }
+
 
 /* Custom Fonts for Sensum */
 

@@ -68,7 +68,7 @@
                 <div class="camera_caption">
                     <div class="container">
                         <h5 class=" wow fadeInUp animated">Tu mejor opción en </h5>
-                        <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">SERVICIOS DE CONTRUCCIÓN</h1>
+                        <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">SERVICIOS DE CONSTRUCCIÓN</h1>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                     <br>
                     <br>
                     <div class="subtittle">
-                        <h3>Descarga nuestro Currícum y Portafolio digital</h3>
+                        <h3>Descarga nuestro Currículum y Portafolio digital</h3>
                     </div>
                     <br>
                         <a href="docs/Presentacion_Sensum_Construcciones.pdf" target="_blank" class="button_all"> <i class="fa fa-download"></i> CV</a>
@@ -161,8 +161,8 @@
                 </div>
                 <div class="col-md-4 col-sm-6 p0 completed">
                     <i class="fa fa-child" aria-hidden="true"></i>
-                    <span class="counter">58</span>
-                    <h6>Clientes Satisfechosa</h6>
+                    <P><span class="counter">100</span> <span class="simbol">%</span> </p>
+                    <h6>Clientes Satisfechos</h6>
                 </div>
             </div>
         </div>
