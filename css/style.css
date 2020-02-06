@@ -1754,6 +1754,7 @@ button:hover {
     border-radius: 50%;
     display: block;
     position: relative;
+    margin-left: 210px;
     margin-top: -60px;
     text-align: center;
     z-index: 1;
@@ -1770,7 +1771,6 @@ button:hover {
     color: #222222;
     text-align: left;
     text-transform: uppercase;
-    display: block;
     padding-top: 30px;
 }
 
@@ -1976,6 +1976,55 @@ button:hover {
     color: #fefefe;
 }
 
+/* .cat .button_menu {
+    width: 100px;
+    border: 2px solid #fff;
+    background-color: transparent;
+    font: 400 14px/36px "Roboto", sans-serif;
+    color: #fefefe;
+} */
+
+.button_menu {
+    margin-left: 20px;
+    font: 700 18px/59px "Roboto", sans-serif;
+    width: 130px;
+    text-align: ;
+    background: #f6b60b;
+    display: ;
+    border: 0;
+    color: #222222;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 2;
+    padding: 0;
+}
+
+.button_menu:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    background: #222222;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    right: 0;
+    transform: scaleY(0);
+    transform-origin: 50%;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.button_menu:hover,
+.button_menu:focus {
+    color: #fff !important;
+}
+
+.button_menu:hover:before,
+.button_menu:focus:before {
+    transform: scaleY(1);
+}
 
 /*--------------------------------------------------*/
 

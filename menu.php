@@ -38,6 +38,8 @@
                     <li><a href="proyects">Proyectos</a></li>
 
                     <li><a href="contact">Contactos</a></li>
+
+                    <li class="cat"><a class="button_menu" href="cat">Catalogo</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
