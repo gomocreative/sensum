@@ -96,137 +96,137 @@
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">Dado Azul CAT6</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/PATCH-PANEL-CAT-6-PANDUIT-ANGULADO-DE-24-PUERTOS.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Dados Azules CAT6</span><br>
+                     <span class="tittle" href="#">PATCH CAT6 PANDUIT-ANG/24 PUERTOS</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/PACH-CORD-NETKEY.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">PACH-CORD-NETKEY</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/ORGANIZADOR-ORIZONTAL-2RU-PANDUIT.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">ORGANIZADOR-ORIZONTAL-2RU-PANDUIT</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/BOBINA-DE-CALBE-CAT-6-MARCA-PANDUIT-LINEA-NETKEY.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">BOBINA/CALBE CAT6 M/PANDUIT L/NETKEY</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/cable-utp-cat-6-unifilar-gris-aliacion.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">Cable UTP CAT6 unifilar/gris/aliacion</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/MARCO-PARA-TABLA-YESO.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">MARCO PARA TABLA YESO</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/placa_1.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">Placa para 1</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/placa_2.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">Placa para 2</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/placa_3.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">Placa para 3</span><br>
                </div>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="renovation">
-               <img src="img_cat/rj45.jpg" alt="" style="width: 100%; height: 300px; ">
+               <img src="img_cat/placa_4.jpg" alt="" style="width: 100%; height: 300px; ">
                <div class="renovation_content">
                      <a data-toggle="modal" data-target="#rj45">
                         <span class="clipboard">
                            <i class="fa fa-plus" aria-hidden="true"></i>
                         </span>
                      </a>
-                     <span class="tittle" href="#">Conector RJ45</span><br>
+                     <span class="tittle" href="#">Placa para 4</span><br>
                </div>
             </div>
          </div>
