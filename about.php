@@ -147,7 +147,6 @@
     <!-- call Area -->
     <section class="call_min_area">
         <div class="container">
-            <h2><a class="sensumEmail" href="mailto:proyectos@sensumconstrucciones.com">proyectos@sensumconstrucciones.com</a></h2>
             <br>
             <p>
                 ¿Listo para iniciar un nuevo proyecto juntos?

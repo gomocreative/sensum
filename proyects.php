@@ -73,7 +73,7 @@
             <div class="row blog_tow_row">
                 <div class="col-md-4 col-sm-6">
                     <div class="renovation">
-                        <img src="images/projects/project1.2.jpg" alt="" style="width: 100%; height: 270px; ">
+                        <img src="images/projects/project1.3.jpg" alt="" style="width: 100%; height: 270px; ">
                         <div class="renovation_content">
                             <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
                             <span class="tittle" href="#">Construcción oficinas ASTRAB</span><br>
@@ -124,7 +124,7 @@
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="https://www.aicsacorp.com/" target="_blank">AICSA</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Mayo 2018</span><br>
                             </div>
-                            <p style="padding-bottom: 60px">Levantamiento de muros para construcción de viviendas (Etapa obra gris) 3 viviendas ejecutadas.</p>
+                            <p style="padding-bottom: 60px">Levantado de muros para construcción de viviendas (Etapa obra gris) 3 viviendas ejecutadas.</p>
                         </div>
                     </div>
                 </div>
@@ -147,12 +147,12 @@
                         <img src="images/projects/project6.jpg" alt="" style="width: 100%; height: 270px;">
                         <div class="renovation_content">
                             <span class="clipboard"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
-                            <span class="tittle" style="padding-bottom: 5px">Implementacion de AC auditorio CSI corporativo</span>
+                            <span class="tittle" style="padding-bottom: 5px">Implementación de AC auditorio CSI corporativo</span>
                             <div class="date_comment">
                                 <span style="padding-bottom: 200px;"><i class="fa fa-user" aria-hidden="true"></i> <a href="https://www.cmi.co/es/" target="_blank">Corporacion Multi Inversiones CMI</a></span><br><br>
                                 <span class="spaceProjectCard"><i class="fa fa-calendar" aria-hidden="true"></i> Mayo 2019</span>
                             </div>
-                            <p style="padding-bottom: 8px">Fabricación e instalacion de estructura tipo Joist para soporte de Aires Acondicionados en auditorio, instalaciones eléctricas para su funcionamiento y adecuación de drenajes para descarga de condensación.</p>
+                            <p style="padding-bottom: 8px">Fabricación e instalación de estructura tipo Joist para soporte de Aires Acondicionados en auditorio, instalaciones eléctricas para su funcionamiento y adecuación de drenajes para descarga de condensación.</p>
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
     <!-- Slider area -->
     <section class="slider_area row m0">
         <div class="slider_inner">
-            <div data-thumb="images/projects/particulars/particulares.jpg" data-src="images/projects/particulars/particulares.jpg">
+            <div data-thumb="images/projects/particulars/particulares1.jpg" data-src="images/projects/particulars/particulares1.jpg">
                 <div class="camera_caption">
                     <div class="container">
                         <h1 class=" wow fadeInUp animated" data-wow-delay="0">Proyectos Particulares</h1>

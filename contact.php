@@ -82,7 +82,7 @@
                         <div class="address">
                             <a href="tel:+50229113075">(502) 5911 3075</a>
                             <a href="tel:+50241517950">(502) 4151 7950</a>
-                            <a href="mailto:info@sensumconstrucciones.com">info@sensumconstrucciones.com</a>
+                            <a href="mailto:proyectos@sensumconstrucciones.com">proyectos@sensumconstrucciones.com</a>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
                     <form class="form-inline contact_box" action="send_sms.php" method="post" id="contactForm">
                         <input type="text" class="form-control input_box" name="name" placeholder="Nombre *" required>
                         <input type="mail" class="form-control input_box" name="email" placeholder="Email *" required>
-                        <input type="text" class="form-control input_box" name="subjet" placeholder="Asunto *" required>
+                        <input type="text" class="form-control input_box" name="subject" placeholder="Asunto *" required>
                         <textarea class="form-control input_box" name="message" placeholder="Mensaje"></textarea>
                         <button type="submit" value="submit" class="btn btn-default">Enviar</button>
                     </form>

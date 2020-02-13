@@ -1372,13 +1372,8 @@ button:hover {
 .our_achievments_area .achievments_row .completed .counter {
     font: 700 40px "Roboto", sans-serif;
     color: #f6b60b;
-    /* display: block; */
+    display: block;
     padding-top: 23px;
-}
-
-.our_achievments_area .achievments_row .completed .simbol {
-    font: 700 40px "Roboto", sans-serif;
-    color: #f6b60b;
 }
 
 .our_achievments_area .achievments_row .completed h6 {
@@ -1744,7 +1739,7 @@ button:hover {
 
 .blog_tow_area .blog_tow_row .renovation .renovation_content {
     border: 1px solid #888;
-    padding: 28px;
+    padding: 10px;
 }
 
 .blog_tow_area .blog_tow_row .renovation .renovation_content .clipboard {
@@ -1754,7 +1749,6 @@ button:hover {
     border-radius: 50%;
     display: block;
     position: relative;
-    margin-left: 210px;
     margin-top: -60px;
     text-align: center;
     z-index: 1;
@@ -1771,6 +1765,7 @@ button:hover {
     color: #222222;
     text-align: left;
     text-transform: uppercase;
+    display: block;
     padding-top: 30px;
 }
 
@@ -1814,7 +1809,7 @@ button:hover {
 }
 
 .call_min_area h2 {
-    font: 400 60px "Roboto", sans-serif;
+    font: 200 60px "Roboto", sans-serif;
     color: #fff;
 }
 
@@ -1976,55 +1971,6 @@ button:hover {
     color: #fefefe;
 }
 
-/* .cat .button_menu {
-    width: 100px;
-    border: 2px solid #fff;
-    background-color: transparent;
-    font: 400 14px/36px "Roboto", sans-serif;
-    color: #fefefe;
-} */
-
-.button_menu {
-    margin-left: 20px;
-    font: 700 18px/59px "Roboto", sans-serif;
-    width: 130px;
-    text-align: ;
-    background: #f6b60b;
-    display: ;
-    border: 0;
-    color: #222222;
-    text-transform: uppercase;
-    position: relative;
-    z-index: 2;
-    padding: 0;
-}
-
-.button_menu:before {
-    content: "";
-    position: absolute;
-    z-index: -1;
-    background: #222222;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    display: inline-block;
-    right: 0;
-    transform: scaleY(0);
-    transform-origin: 50%;
-    transition-property: transform;
-    transition-duration: 0.3s;
-    transition-timing-function: ease-out;
-}
-
-.button_menu:hover,
-.button_menu:focus {
-    color: #fff !important;
-}
-
-.button_menu:hover:before,
-.button_menu:focus:before {
-    transform: scaleY(1);
-}
 
 /*--------------------------------------------------*/
 
@@ -2864,7 +2810,7 @@ button:hover {
         height: 330px;
     }
     .blog_tow_area .blog_tow_row .renovation .renovation_content .date_comment a {
-        padding-right: 30px;
+        padding-right: 300px;
     }
 }
 
@@ -3221,7 +3167,6 @@ button:hover {
     }
 }
 
-
 /* Custom Fonts for Sensum */
 
 .imgFooter {
@@ -3269,6 +3214,100 @@ button:hover {
     border-radius: 0.2em;
 }
 
+.logoMenu {
+    width: 8em;
+    height: 8em;
+    margin-top: -10px;   
+    margin-bottom: 0em;
+}
+
+.navbarSize {
+    margin-bottom: 1em;
+}
+
+@media only screen and (max-width: 768px) {
+
+  .navbarSize {
+    margin-bottom: 3.5em;
+  }
+
+  .logoMenu {
+    margin-bottom: 2em;
+  }
+}
+
+.button_menu {
+    margin-left: 20px;
+    font: 700 18px/59px "Roboto", sans-serif;
+    width: 130px;
+    text-align: ;
+    background: #f6b60b;
+    display: ;
+    border: 0;
+    color: #222222;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 2;
+    padding: 0;
+}
+
+.button_menu:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    background: #222222;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    right: 0;
+    transform: scaleY(0);
+    transform-origin: 50%;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.button_menu:hover,
+.button_menu:focus {
+    color: #fff !important;
+}
+
+.button_menu:hover:before,
+.button_menu:focus:before {
+    transform: scaleY(1);
+}
+
+.productName {
+    padding: 15px 0 16px 0; 
+    font-size: 12px;
+}
+
+.divProductName {
+    padding: 0px !important;
+}
+
+#catInfo {
+    font-size: 18px;
+}
+
+
+.companyCat {
+    border: none !important;
+}
+
+.companyCat img {
+    width: 400px;
+    height: auto;
+}
+
+/*.cat .button_menu {
+    width: 100px;
+    border: 2px solid #fff;
+    background-color: transparent;
+    font: 400 14px/36px "Roboto", sans-serif;
+    color: #fefefe;
+}*/
 
 /* Custom Fonts for Sensum */
 

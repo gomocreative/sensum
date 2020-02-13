@@ -73,9 +73,9 @@
       <div class="container">
          <div class="row blog_tow_row">
       
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/dado_rojo_cat6.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/dado_rojo_cat6.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                      <a data-toggle="modal" data-target="#drcat6">
                         <span class="clipboard">
@@ -84,14 +84,14 @@
                      </a>
                      <!-- ?php printModal($modal) ?>                     -->
                      <?php printModal($modal1) ?>
-                     <span class="tittle" href="#">Dados Rojos CAT6</span><br>
+                     <span class="productName" href="#">Dados Rojos CAT6</span><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/dado_azul_cat6.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/dado_azul_cat6.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#dacat6">
                            <span class="clipboard">
@@ -99,14 +99,14 @@
                            </span>
                         </a>
                         <?php printModal($modal2) ?>
-                        <span class="tittle" href="#">Dado Azul CAT6</span><br>
+                        <span class="productName" href="#">Dado Azul CAT6</span><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/PATCH-PANEL-CAT-6-PANDUIT-ANGULADO-DE-24-PUERTOS.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/PATCH-PANEL-CAT-6-PANDUIT-ANGULADO-DE-24-PUERTOS.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#patang24p">
                            <span class="clipboard">
@@ -114,14 +114,14 @@
                            </span>
                         </a>
                         <?php printModal($modal3) ?>
-                        <span class="tittle" href="#">PATCH CAT6 PANDUIT-ANG/24 PUERTOS</span><br>
+                        <span class="productName" href="#">Patch CAT6 PANDUIT-ANG/24 Puertos</span>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/PACH-CORD-NETKEY.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/PACH-CORD-NETKEY.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#pachCNet">
                            <span class="clipboard">
@@ -129,14 +129,14 @@
                            </span>
                         </a>
                         <?php printModal($modal4) ?>
-                        <span class="tittle" href="#">PACH CORD NETKEY</span><br>
+                        <span class="productName" href="#">Patch Cord NETKEY</span><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+             <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/ORGANIZADOR-ORIZONTAL-2RU-PANDUIT.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/ORGANIZADOR-ORIZONTAL-2RU-PANDUIT.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#orgHor">
                            <span class="clipboard">
@@ -144,14 +144,14 @@
                            </span>
                         </a>
                         <?php printModal($modal5) ?>
-                        <span class="tittle" href="#">ORGANIZADOR HORIZONTAL 2RU PANDUIT</span><br>
+                        <span class="productName" href="#">Organizador Horizontal 2RU PANDUIT</span><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/BOBINA-DE-CALBE-CAT-6-MARCA-PANDUIT-LINEA-NETKEY.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/BOBINA-DE-CALBE-CAT-6-MARCA-PANDUIT-LINEA-NETKEY.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#bobiCaleCat6">
                            <span class="clipboard">
@@ -159,15 +159,15 @@
                            </span>
                         </a>
                         <?php printModal($modal6) ?>
-                        <span class="tittle" href="#">BOBINA/CALBE CAT6 M/PANDUIT L/NETKEY</span><br>
+                        <span class="productName" href="#">Bobina/Calbe CAT6 M/PANDUIT L/NETKEY</span><br>
                   </div>
 
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/cable-utp-cat-6-unifilar-gris-aliacion.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/cable-utp-cat-6-unifilar-gris-aliacion.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#cable-utp-cat-6">
                            <span class="clipboard">
@@ -175,14 +175,14 @@
                            </span>
                         </a>
                         <?php printModal($modal7) ?>
-                        <span class="tittle" href="#">Cable UTP CAT6 unifilar/gris/aliacion</span><br>
+                        <span class="productName" href="#">Cable UTP CAT6 Unifilar/Gris/Aliación</span><br><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/MARCO-PARA-TABLA-YESO.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/MARCO-PARA-TABLA-YESO.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#marcoTblYeso">
                            <span class="clipboard">
@@ -190,14 +190,14 @@
                            </span>
                         </a>
                         <?php printModal($modal8) ?>
-                        <span class="tittle" href="#">MARCO PARA TABLA YESO</span><br>
+                        <span class="productName" href="#">Marco para Tabla Yeso</span><br><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/placa_1.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/placa_1.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#placa_1">
                            <span class="clipboard">
@@ -205,14 +205,14 @@
                            </span>
                         </a>
                         <?php printModal($modal9) ?>
-                        <span class="tittle" href="#">Placa para 1</span><br>
+                        <span class="productName" href="#">Placa frontal vertical 1 salida</span><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/placa_2.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/placa_2.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#placa_2">
                            <span class="clipboard">
@@ -220,14 +220,14 @@
                            </span>
                         </a>
                         <?php printModal($modal10) ?>
-                        <span class="tittle" href="#">Placa para 2</span><br>
+                        <span class="productName" href="#">Placa frontal vertical 2 salidas</span><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/placa_3.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/placa_3.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#placa_3">
                            <span class="clipboard">
@@ -235,14 +235,14 @@
                            </span>
                         </a>
                         <?php printModal($modal11) ?>
-                        <span class="tittle" href="#">Placa para 3</span><br>
+                        <span class="productName" href="#">Placa frontal vertical 3 salidas</span><br>
                   </div>
                </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                <div class="renovation">
-                  <img src="img_cat/placa_4.jpg" alt="" style="width: 100%; height: 300px; ">
+                  <img src="img_cat/placa_4.jpg" alt="" style="width: 150px; height: 150px; ">
                   <div class="renovation_content">
                         <a data-toggle="modal" data-target="#placa_4">
                            <span class="clipboard">
@@ -250,7 +250,7 @@
                            </span>
                         </a>
                         <?php printModal($modal12) ?>
-                        <span class="tittle" href="#">Placa para 4  </span><br>
+                        <span class="productName" href="#">Placa frontal vertical 4 salidas</span><br>
                   </div>
                </div>
             </div>         
@@ -258,6 +258,22 @@
                       
       </div>
    </section>
+
+   <!-- call Area -->
+    <section class="call_min_area">
+        <div class="container">
+            <br>
+            <p id="catInfo">
+                 Todos nuestros productos y servicios cuentan con el respando de las mejores marcas
+            </p>
+            <br>
+            <div class="call_btn">
+                <a href="http://www.panduit.com/es/home" target="_blank" class="companyCat"><img src="img_cat/panduit.png"></a>
+                <a href="https://www.aseguradorageneral.com/" target="_blank"  class="companyCat"><img src="img_cat/ageneral.png"></a>
+            </div>
+        </div>
+    </section>
+    <!-- End call Area -->
 
    <!-- End blog-2 area -->
 

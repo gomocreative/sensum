@@ -6,7 +6,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='drcat6'>Dado Rojo CAT6</h4>
+               <h4 class='modal-title' id='drcat6'>Dados Rojos CAT6</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -30,7 +30,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='dacat6'>Dado Rojo CAT6</h4>
+               <h4 class='modal-title' id='dacat6'>Dado Azul CAT6</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -54,7 +54,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='patang24p'>PATCH CAT6 PANDUIT-ANG/24 PUERTOS</h4>
+               <h4 class='modal-title' id='patang24p'>Patch CAT6 PANDUIT-ANG/24 Puertos</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -78,7 +78,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='pachCNet'>PACH CORD NETKEY</h4>
+               <h4 class='modal-title' id='pachCNet'>Patch Cord NETKEY</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -102,7 +102,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='orgHor'>ORGANIZADOR HORIZONTAL 2RU PANDUIT</h4>
+               <h4 class='modal-title' id='orgHor'>Organizador Horizontal 2RU PANDUIT</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -126,7 +126,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='bobiCaleCat6'>BOBINA/CALBE CAT6 M/PANDUIT L/NETKEY</h4>
+               <h4 class='modal-title' id='bobiCaleCat6'>Bobina/Calbe CAT6 M/PANDUIT L/NETKEY</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -150,7 +150,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='cable-utp-cat-6'>Cable UTP CAT6 unifilar/gris/aliacion</h4>
+               <h4 class='modal-title' id='cable-utp-cat-6'>Cable UTP CAT6 Unifilar/Gris/Aliación</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -174,7 +174,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='marcoTblYeso'>MARCO PARA TABLA YESO</h4>
+               <h4 class='modal-title' id='marcoTblYeso'>Marco para Tabla Yeso</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -198,7 +198,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='placa_1'>Placa para 1</h4>
+               <h4 class='modal-title' id='placa_1'>Placa frontal vertical 1 salida</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -222,7 +222,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='placa_2'>Placa para 2</h4>
+               <h4 class='modal-title' id='placa_2'>Placa frontal vertical 2 salidas</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -245,7 +245,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='placa_3'>Placa para 3</h4>
+               <h4 class='modal-title' id='placa_3'>Placa frontal vertical 3 salidas</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>
@@ -269,7 +269,7 @@
       <div class='modal-dialog modal-dialog-centered' role='document'>
          <div class='modal-content'>
             <div class='modal-header'>
-               <h4 class='modal-title' id='placa_4'>Placa para 4</h4>
+               <h4 class='modal-title' id='placa_4'>Placa frontal vertical 4 salidas</h4>
                <button type='button' class='close' data-dismiss='modal' aria-label='Close'>
                   <span aria-hidden='true'>&times;</span>
                </button>

@@ -84,6 +84,126 @@
                     </ul>
                 </div> -->
 
+                <!-- Remodelación -->
+                <div class="portfolio_item portfolio_2">
+                    <div class="single_facilities col-sm-7 remodelacion">
+                        <div class="who_we_area">
+                            <div class="subtittle">
+                                <h2>Remodelaciones</h2>
+                            </div>
+                            <p>
+                            <ul>
+                                <li>Ampliaciones  y redistribución de ambientes.</li>
+                                <li>Texturizado de paredes.</li>
+                                <li>Aplicación de pintura profesional.</li>
+                                <li>Colocación de fachaletas o de piedra decorativa.</li>
+                                <li>Restauración de pisos y cielo falso o texturizados.</li>
+                            </ul>
+                            </p>
+
+                        </div>
+                    </div>
+                    <div class="single_facilities col-sm-5">
+                        <img src="images/services/remodelaciones.jpg" alt="">
+                    </div>
+                </div>
+
+                <!-- aplic tec -->
+                <div class="portfolio_item portfolio_2">
+                    <div class="single_facilities col-sm-7 aplicTec">
+                        <div class="who_we_area">
+                            <div class="subtittle">
+                                <h2>Aplicaciones Técnicas</h2>
+                            </div>
+                            <p>
+                            <ul>
+                                <li>Impermeabilización de losas o cubiertas de todo tipo.</li>
+                                <li>Tratamiento de muros húmedos.</li>
+                                <li>Curado de hongo en paredes infectadas..</li>
+                                <li>Sello de superficies naturales (madera mármol granito etc.).</li>
+                                <li>Tratamiento de fisuras y juntas frías.</li>
+                            </ul>
+                            </p>
+
+                        </div>
+                    </div>
+                    <div class="single_facilities col-sm-5 aplicTec">
+                        <img src="images/services/aplicacionesTecnicas.jpg" alt="">
+                    </div>
+                </div>
+
+                <!-- instal general -->
+                <div class="portfolio_item portfolio_2">
+                    <div class="single_facilities col-sm-7 instalGeneral">
+                        <div class="who_we_area">
+                            <div class="subtittle">
+                                <h2>Instalaciones Generales</h2>
+                            </div>
+                            <p>
+                            <ul>
+                                <li>Instalaciones hidráulicas (Potable, drenajes, pluvial).</li>
+                                <li>Instalaciones eléctricas (Iluminación y fuerza).</li>
+                                <li>Instalaciones especiales (gas, equipos de bombeo, equipos de presión).</li>
+                                <li>Instalaciones de climatización (Ventilación, calefacción, A/C, etc).</li>
+                                <li>Instalación de comunicaciones (circuitos cerrados, teléfonos, redes informáticas, etc).</li>
+                            </ul>
+                            </p>
+
+                        </div>
+                    </div>
+                    <div class="single_facilities col-sm-5 instalGeneral">
+                        <img src="images/services/instalaciones.jpg" alt="">
+                    </div>
+                </div>
+
+                <!-- Mant prevent -->
+                <div class="portfolio_item portfolio_2">
+                    <div class="single_facilities col-sm-7 ">
+                        <div class="who_we_area">
+                            <div class="subtittle">
+                                <h2>Mantenimiento Preventivo</h2>
+                            </div>
+                            <p>
+                            <ul>
+                                <li>Limpieza de losas y bajadas de agua pluvial.</li>
+                                <li>Limpieza de filtros, sifones y llaves de agua potable.</li>
+                                <li>Revisión de acometida eléctrica o instalación especial.</li>
+                                <li>Limpieza de calentadores de resistencia.</li>
+                                <li>Podado y cuidado de áreas verdes.</li>
+
+                            </ul>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="single_facilities col-sm-5 mantPrevent">
+                        <img src="images/services/mantenimiento.jpg" alt="">
+                    </div>
+                </div>
+
+                <!-- obra civil -->
+                <div class="portfolio_item portfolio_2">
+                    <div class="single_facilities col-sm-7 obraCivil">
+                        <div class="who_we_area">
+                            <div class="subtittle">
+                                <h2>Obra Civil</h2>
+                            </div>
+                            <p>
+                            <ul>
+                                <li>Preliminares y trazado de terreno.</li>
+                                <li>Excavaciones y movimiento de tierra.</li>
+                                <li>Armado de estructura y cimentación.</li>
+                                <li>Levantamiento de muros, tabique de tablayeso, durock, prefabricado monolit.</li>
+                                <li>Fundición de losas de entrepiso y finales. Armado y fundición de gradas.</li>
+                            </ul>
+                            </p>
+
+                        </div>
+                    </div>
+                    <div class="single_facilities col-sm-5 obraCivil">
+                        <img src="images/services/obraCivil.jpg" alt="">
+                    </div>
+                </div>
+
                 <!-- Dis Archit -->
                 <div id="disArchit" class="portfolio_item portfolio_2">
                     
@@ -105,125 +225,6 @@
                     </div>
                     <div class="single_facilities col-sm-5 ">
                         <img src="images/services/disenio.jpg" alt="">
-                    </div>
-                </div>
-
-                <!-- Remodelación -->
-                <div class="portfolio_item portfolio_2">
-                    <div class="single_facilities col-sm-7 remodelacion">
-                        <div class="who_we_area">
-                            <div class="subtittle">
-                                <h2>Remodelaciones</h2>
-                            </div>
-                            <p>
-                                <ul>
-                                    <li>Demlición y resanado de muros.</li>
-                                    <li>Texturizado de paredes.</li>
-                                    <li>Aplicación de pintura profecional.</li>
-                                    <li>colocación de formaleta o de piedra decorativa.</li>
-                                    <li>Restauración de pisos y cielo falso o texturizados.</li>
-                                </ul>
-                            </p>
-                            
-                        </div>
-                    </div>
-                    <div class="single_facilities col-sm-5">
-                        <img src="images/services/remodelaciones.jpg" alt="">
-                    </div>
-                </div>
-
-                <!-- Mant prevent -->
-                <div class="portfolio_item portfolio_2">
-                    <div class="single_facilities col-sm-7 ">
-                        <div class="who_we_area">
-                            <div class="subtittle">
-                                <h2>Mantenimiento Preventivo</h2>
-                            </div>
-                            <p>
-                                <ul>
-                                    <li>Limpieza de losas y bajadas de agua.</li>
-                                    <li>Limpieza de filtros, sifones y llaves de agua potable.</li>
-                                    <li>Revisión de acometida eléctrica o instalación especial.</li>
-                                    <li>Limpieza de calentadores de resistencia.</li>
-
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="single_facilities col-sm-5 mantPrevent">
-                        <img src="images/services/mantenimiento.jpg" alt="">
-                    </div>
-                </div>
-
-                <!-- aplic tec -->
-                <div class="portfolio_item portfolio_2">
-                    <div class="single_facilities col-sm-7 aplicTec">
-                        <div class="who_we_area">
-                            <div class="subtittle">
-                                <h2>Aplicaciones Técnicas</h2>
-                            </div>
-                            <p>
-                                <ul>
-                                    <li>Impermeabilización.</li>
-                                    <li>Revestimientos decorativos para interiores y exteriores.</li>
-                                    <li>Texturizado especial en acabado de paredes y cielos.</li>
-                                    <li>Pintura profesional.</li>
-                                    <li>Pavimentos decorativos especiales.</li>
-                                </ul>
-                            </p>
-                            
-                        </div>
-                    </div>
-                    <div class="single_facilities col-sm-5 aplicTec">
-                        <img src="images/services/aplicacionesTecnicas.jpg" alt="">
-                    </div>
-                </div>
-
-                <!-- instal general -->
-                <div class="portfolio_item portfolio_2">
-                    <div class="single_facilities col-sm-7 instalGeneral">
-                        <div class="who_we_area">
-                            <div class="subtittle">
-                                <h2>Instalaciones Generales</h2>
-                            </div>
-                            <p>
-                                <ul>
-                                    <li>Instalaciones hidráulicas (Potable, drenajes, pluvial).</li>
-                                    <li>Instalaciones eléctricas (Iluminación y fuerza).</li>
-                                    <li>Instalaciones especiales (Red de datos, domótica, etc).</li>
-                                    <li>Instalaciones de climatización (Ventilación, calefacción, etc).</li>
-                                    <li>Instalación de comunicaciones (circuitos cerrados, teléfonos, redes informáticas, videovigilancia, etc).</li>
-                                </ul>
-                            </p>
-                            
-                        </div>
-                    </div>
-                    <div class="single_facilities col-sm-5 instalGeneral">
-                        <img src="images/services/instalaciones.jpg" alt="">
-                    </div>
-                </div>
-
-                <!-- obra civil -->
-                <div class="portfolio_item portfolio_2">
-                    <div class="single_facilities col-sm-7 obraCivil">
-                        <div class="who_we_area">
-                            <div class="subtittle">
-                                <h2>Obra Civil</h2>
-                            </div>
-                            <p>
-                                <ul>
-                                    <li>Preliminares y trazado de terreno.</li>
-                                    <li>Excavaciones y movimiento de tierra.</li>
-                                    <li>Armado de estructura y cimentación.</li>
-                                    <li>Levantamiento de muros, tabique de tablayeso, durock, prefabricado monolit.</li>
-                                    <li>Fundición de losas de entrepiso y finales. Armado y fundición de gradas.</li>
-                                </ul>
-                            </p>
-                            
-                        </div>
-                    </div>
-                    <div class="single_facilities col-sm-5 obraCivil">
-                        <img src="images/services/obraCivil.jpg" alt="">
                     </div>
                 </div>
 

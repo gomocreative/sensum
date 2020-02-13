@@ -3,7 +3,7 @@
         <div class="footer_row row">
             <div class="col-md-4 col-sm-6 footer_about">
                 <h2>Acerca de nuestra compañía</h2>
-                <img src="images/logo/footerLlogo.png" alt="Sensum Construcciones" class="imgFooter">
+                <img src="images/logo/logoInvertido1.png" alt="Sensum Construcciones" class="imgFooter">
                 <p>
                     Somos una empresa creada para brindar servicios generales en remodelación y construcción
                     con la mejor calidad a un precio cómodo y con el mejor servicio.
